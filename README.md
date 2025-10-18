@@ -1,5 +1,5 @@
 # Hi 👋, I'm Avanish Salunke
-**An aspiring software Engineer || AI Enthusiast **
+**An aspiring software Engineer || AI Enthusiast**
 
 Email Me 👉 ✉️ **avanishsalunke16@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
