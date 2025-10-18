@@ -14,9 +14,6 @@ Email Me 👉 ✉️ **avanishsalunke16@gmail.com** For Collaboration/Project or
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/musicioavi) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/toomuchof_avi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avanish-salunke-539042330/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Avanish1610S) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:avanishsalunke16@gmail.com) 
 
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
 
 
 # 💻 Tech Stack:
