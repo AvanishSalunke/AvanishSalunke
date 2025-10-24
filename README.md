@@ -1,4 +1,3 @@
-<!-- 🌈 GENERATIVE NEON HEADER -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,100:ff00ff&height=250&section=header&text=Avanish%20Salunke&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=%20AI%20Enthusiast%20%7C%20Software%20Engineer%20%7C%20Tech%20Explorer&descAlignY=60&descAlign=50)
 
 
@@ -80,6 +79,11 @@
 
 ## 🔝 Top Contributed Repo  
 ![](https://github-contributor-stats.vercel.app/api?username=AvanishSalunke&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+---
+
+## 🎟️ Holopin Badge Board  
+[![An image of @avanishsalunke's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/avanishsalunke)](https://holopin.io/@avanishsalunke)
 
 ---
 
