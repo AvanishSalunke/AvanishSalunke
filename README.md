@@ -7,13 +7,7 @@
 
 📩 Email Me 👉 **[avanishsalunke16@gmail.com](mailto:avanishsalunke16@gmail.com)** for collaboration, projects, or just to chat 😊
 
-- 🔭 **Currently working on:** CNNs, ASR Model, OpenCV  
-- 🌱 **Learning:** QNNs  
-- 👯 **Collaborating on:** Chat applications, reinforcement learning  
-- 🤔 **Looking for help with:** Domain-specific open source projects  
-- 📫 **Reach me:** avanishsalunke16@gmail.com  
-- 😄 **Pronouns:** he/him  
-- ⚡ **Fun fact:** git good 😎  
+
 
 ---
 
@@ -21,7 +15,6 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/musicioavi)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/toomuchof_avi)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avanish-salunke-539042330/)
-[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Avanish1610S)
 [![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:avanishsalunke16@gmail.com)
 
 ---
