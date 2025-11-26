@@ -49,10 +49,13 @@
 
 ---
 
-## 📊 GitHub Stats  
-![](https://github-readme-stats.vercel.app/api?username=AvanishSalunke&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AvanishSalunke&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AvanishSalunke&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 📦 GitHub Summary Card  
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AvanishSalunke&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AvanishSalunke&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AvanishSalunke&theme=radical&utcOffset=5.5" />
+</p>
+
 
 ---
 
@@ -63,11 +66,6 @@
 
 ## ✍️ Random Dev Quote  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-## 🔝 Top Contributed Repo  
-![](https://github-contributor-stats.vercel.app/api?username=AvanishSalunke&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
 
