@@ -3,7 +3,6 @@
 
 ---
 
-**An aspiring Software Engineer || AI Enthusiast**
 
 📩 Email Me 👉 **[avanishsalunke16@gmail.com](mailto:avanishsalunke16@gmail.com)** for collaboration, projects, or just to chat 😊
 
