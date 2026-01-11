@@ -50,9 +50,10 @@
 
 ## 📦 GitHub Summary Card  
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AvanishSalunke&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AvanishSalunke&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AvanishSalunke&theme=radical&utcOffset=5.5" />
+  <img src="https://raw.githubusercontent.com/AvanishSalunke/AvanishSalunke/main/profile-summary-card-output/radical/0-profile-details.svg" />
+  <img src="https://raw.githubusercontent.com/AvanishSalunke/AvanishSalunke/main/profile-summary-card-output/radical/1-repos-per-language.svg" />
+  <img src="https://raw.githubusercontent.com/AvanishSalunke/AvanishSalunke/main/profile-summary-card-output/radical/3-stats.svg" />
+  <img src="https://raw.githubusercontent.com/AvanishSalunke/AvanishSalunke/main/profile-summary-card-output/radical/4-productive-time.svg" />
 </p>
 
 
