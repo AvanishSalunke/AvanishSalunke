@@ -51,7 +51,6 @@
 ## 📦 GitHub Summary Card  
 <p align="center">
   <img src="https://raw.githubusercontent.com/AvanishSalunke/AvanishSalunke/main/profile-summary-card-output/radical/0-profile-details.svg" />
-  <img src="https://raw.githubusercontent.com/AvanishSalunke/AvanishSalunke/main/profile-summary-card-output/radical/1-repos-per-language.svg" />
   <img src="https://raw.githubusercontent.com/AvanishSalunke/AvanishSalunke/main/profile-summary-card-output/radical/3-stats.svg" />
   <img src="https://raw.githubusercontent.com/AvanishSalunke/AvanishSalunke/main/profile-summary-card-output/radical/4-productive-time.svg" />
 </p>
