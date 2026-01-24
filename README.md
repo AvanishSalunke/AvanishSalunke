@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,100:ff00ff&height=250&section=header&text=Avanish%20Salunke&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=%20AI%20Enthusiast%20%7C%20Software%20Engineer%20%7C%20Tech%20Explorer&descAlignY=60&descAlign=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,100:ff00ff&height=250&section=header&text=Avanish%20Salunke&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=&descAlignY=60&descAlign=50)
 
 
 ---
