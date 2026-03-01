@@ -37,7 +37,7 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-
+![Octave](https://img.shields.io/badge/%20Octave-0790C0?style=for-the-badge&logo=octave&logoColor=white)
 ---
 
 ## 📈 Contribution Timeline  
