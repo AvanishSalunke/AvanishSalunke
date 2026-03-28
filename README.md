@@ -135,15 +135,10 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AvanishSalunke&bg_color=000000&color=00ffff&line=ff00ff&point=ffffff&area=true&hide_border=true&custom_title=✨%20Avanish's%20Monthly%20Contribution%20Graph%20✨" alt="Avanish's Activity Graph"/>
 </p>
 
----
 
 
 
-## 🏆 Top Contributed Repositories 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AvanishSalunke/AvanishSalunke/main/github-metrics.svg" alt="Avanish's Auto-Updated Top Contributions" />
-</p>
 
 
 
