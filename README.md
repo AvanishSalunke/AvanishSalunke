@@ -86,18 +86,23 @@
     </td>
     <td align="center" width="96">
       <a href="https://numpy.org/">
-        <img src="https://skillicons.dev/icons?i=numpy" width="48" height="48" alt="NumPy" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" />
       </a><br>NumPy
     </td>
     <td align="center" width="96">
       <a href="https://pandas.pydata.org/">
-        <img src="https://skillicons.dev/icons?i=pandas" width="48" height="48" alt="Pandas" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
       </a><br>Pandas
     </td>
     <td align="center" width="96">
       <a href="https://matplotlib.org/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" height="48" alt="Matplotlib" />
       </a><br>Matplotlib
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.mathworks.com/products/matlab.html">
+        <img src="https://skillicons.dev/icons?i=matlab" width="48" height="48" alt="MATLAB" />
+      </a><br>MATLAB
     </td>
     <td align="center" width="96">
       <a href="https://www.gnu.org/software/octave/">
@@ -116,7 +121,7 @@
     </td>
     <td align="center" width="96">
       <a href="https://www.canva.com/">
-        <img src="https://skillicons.dev/icons?i=canva" width="48" height="48" alt="Canva" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" width="48" height="48" alt="Canva" />
       </a><br>Canva
     </td>
   </tr>
