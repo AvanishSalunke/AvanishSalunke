@@ -1,0 +1,41 @@
+name: Auto-Update Top Repositories Metrics
+
+on:
+  # This makes it update automatically every 24 hours
+  schedule:
+    - cron: "0 0 * * *"
+  # This allows you to force an update manually from the Actions tab
+  workflow_dispatch:
+  # This updates the image every time you commit to your README
+  push:
+    branches:
+      - main
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate Top Repositories & Lines of Code
+        uses: lowlighter/metrics@latest
+        with:
+          # This saves the image into your repo so your README can display it
+          filename: github-metrics.svg
+          
+          # GitHub automatically provides this token, you don't need to create one!
+          token: ${{ secrets.GITHUB_TOKEN }}
+          
+          # Hides the basic stats so we only focus on what you asked for
+          base: ""
+          
+          # Dark mode styling to match your Cyberpunk aesthetic
+          config_timezone: Asia/Kolkata
+          
+          # Enable Lines of Code tracking
+          plugin_lines: yes
+          plugin_lines_history_limit: 1
+          plugin_lines_repositories_limit: 5
+          
+          # Enable Top Repositories tracking (Shows logos, stars, forks)
+          plugin_repositories: yes
+          plugin_repositories_featured: AvanishSalunke/AvanishSalunke
+          plugin_repositories_order: featured, pinned, starred, random
