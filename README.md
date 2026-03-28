@@ -1,8 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,100:ff00ff&height=250&section=header&text=Avanish%20Salunke&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=&descAlignY=60&descAlign=50)
-
-
-
-
+![header](https://capsule-render.vercel.app/api?type=slice&color=0:00f0ff,33:ff00ff,66:ff0055,100:111111&height=250&section=header&text=Avanish%20Salunke&fontSize=60&fontColor=ffffff&animation=blink)
 
 📩 Email Me 👉 **[avanishsalunke16@gmail.com](mailto:avanishsalunke16@gmail.com)** for collaboration, projects, or just to chat 😊
 
@@ -163,4 +159,4 @@
 
 [![](https://visitcount.itsvg.in/api?id=AvanishSalunke&icon=6&color=00ffff)](https://visitcount.itsvg.in)
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,100:ff00ff&height=120&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=slice&color=0:00f0ff,33:ff00ff,66:ff0055,100:111111&height=120&section=footer)
