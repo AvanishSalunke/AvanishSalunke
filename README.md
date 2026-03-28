@@ -137,6 +137,19 @@
 
 ---
 
+
+
+## 🏆 Top Contributed Repositories 
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AvanishSalunke/AvanishSalunke/main/github-metrics.svg" alt="Avanish's Auto-Updated Top Contributions" />
+</p>
+
+
+
+---
+
+
 ## 📦 GitHub Summary Card  
 <p align="center">
   <img src="https://raw.githubusercontent.com/AvanishSalunke/AvanishSalunke/main/profile-summary-card-output/radical/0-profile-details.svg" />
