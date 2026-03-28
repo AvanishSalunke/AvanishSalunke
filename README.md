@@ -19,26 +19,109 @@
 ---
 
 ## 💻 Tech Stack  
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![Octave](https://img.shields.io/badge/%20Octave-0790C0?style=for-the-badge&logo=octave&logoColor=white)
----
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+        <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
+      </a><br>C
+    </td>
+    <td align="center" width="96">
+      <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
+        <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" />
+      </a><br>C#
+    </td>
+    <td align="center" width="96">
+      <a href="https://isocpp.org">
+        <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
+      </a><br>C++
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.python.org">
+        <img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python" />
+      </a><br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.w3.org/html/">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+      </a><br>HTML5
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.markdownguide.org/">
+        <img src="https://skillicons.dev/icons?i=md" width="48" height="48" alt="Markdown" />
+      </a><br>Markdown
+    </td>
+    <td align="center" width="96">
+      <a href="https://reactjs.org/">
+        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+      </a><br>React
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.mongodb.com/">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+      </a><br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <a href="https://github.com/">
+        <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+      </a><br>GitHub
+    </td>
+    <td align="center" width="96">
+      <a href="https://unity.com/">
+        <img src="https://skillicons.dev/icons?i=unity" width="48" height="48" alt="Unity" />
+      </a><br>Unity
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://opencv.org/">
+        <img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="OpenCV" />
+      </a><br>OpenCV
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.anaconda.com/">
+        <img src="https://skillicons.dev/icons?i=anaconda" width="48" height="48" alt="Anaconda" />
+      </a><br>Anaconda
+    </td>
+    <td align="center" width="96">
+      <a href="https://numpy.org/">
+        <img src="https://skillicons.dev/icons?i=numpy" width="48" height="48" alt="NumPy" />
+      </a><br>NumPy
+    </td>
+    <td align="center" width="96">
+      <a href="https://pandas.pydata.org/">
+        <img src="https://skillicons.dev/icons?i=pandas" width="48" height="48" alt="Pandas" />
+      </a><br>Pandas
+    </td>
+    <td align="center" width="96">
+      <a href="https://matplotlib.org/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" height="48" alt="Matplotlib" />
+      </a><br>Matplotlib
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.gnu.org/software/octave/">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Gnu-octave-logo.svg" width="48" height="48" alt="Octave" />
+      </a><br>Octave
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.adobe.com/products/photoshop.html">
+        <img src="https://skillicons.dev/icons?i=ps" width="48" height="48" alt="Photoshop" />
+      </a><br>Photoshop
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.adobe.com/products/premiere.html">
+        <img src="https://skillicons.dev/icons?i=pr" width="48" height="48" alt="Premiere Pro" />
+      </a><br>Premiere
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.canva.com/">
+        <img src="https://skillicons.dev/icons?i=canva" width="48" height="48" alt="Canva" />
+      </a><br>Canva
+    </td>
+  </tr>
+</table>
+
 
 ## 📈 Contribution Timeline  
 <p align="center">
