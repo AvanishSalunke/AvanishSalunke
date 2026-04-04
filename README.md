@@ -1,11 +1,12 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=0:00f0ff,33:ff00ff,66:ff0055,100:111111&height=250&section=header&text=Avanish%20Salunke&fontSize=60&fontColor=ffffff&animation=blink)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=slice&amp;color=0:00f0ff,33:ff00ff,66:ff0055,100:111111&amp;height=250&amp;section=header&amp;text=Avanish%20Salunke&amp;fontSize=60&amp;fontColor=ffffff&amp;animation=blink">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=slice&amp;color=0:00f0ff,33:ff00ff,66:ff0055,100:ffffff&amp;height=250&amp;section=header&amp;text=Avanish%20Salunke&amp;fontSize=60&amp;fontColor=000000&amp;animation=blink">
+  <img alt="header" src="https://capsule-render.vercel.app/api?type=slice&amp;color=0:00f0ff,33:ff00ff,66:ff0055,100:111111&amp;height=250&amp;section=header&amp;text=Avanish%20Salunke&amp;fontSize=60&amp;fontColor=ffffff&amp;animation=blink">
+</picture>
 
 📩 Email Me 👉 **[avanishsalunke16@gmail.com](mailto:avanishsalunke16@gmail.com)** for collaboration, projects, or just to chat 😊
 
-
 ---
-
-
 
 <p align="center">
   <a href="https://www.linkedin.com/in/avanish-salunke-539042330/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" /></a>
@@ -132,31 +133,46 @@
 
 ## 📈 Contribution Timeline  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AvanishSalunke&bg_color=000000&color=00ffff&line=ff00ff&point=ffffff&area=true&hide_border=true&custom_title=✨%20Avanish's%20Monthly%20Contribution%20Graph%20✨" alt="Avanish's Activity Graph"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AvanishSalunke&amp;bg_color=000000&amp;color=00ffff&amp;line=ff00ff&amp;point=ffffff&amp;area=true&amp;hide_border=true&amp;custom_title=✨%20Avanish's%20Monthly%20Contribution%20Graph%20✨">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AvanishSalunke&amp;bg_color=ffffff&amp;color=ff00ff&amp;line=00f0ff&amp;point=000000&amp;area=true&amp;hide_border=true&amp;custom_title=✨%20Avanish's%20Monthly%20Contribution%20Graph%20✨">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AvanishSalunke&amp;bg_color=000000&amp;color=00ffff&amp;line=ff00ff&amp;point=ffffff&amp;area=true&amp;hide_border=true&amp;custom_title=✨%20Avanish's%20Monthly%20Contribution%20Graph%20✨" alt="Avanish's Activity Graph"/>
+  </picture>
 </p>
-
-
-
-
-
-
-
 
 ---
 
 
 ## 📦 GitHub Summary Card  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AvanishSalunke/AvanishSalunke/main/profile-summary-card-output/radical/0-profile-details.svg" />
-  <img src="https://raw.githubusercontent.com/AvanishSalunke/AvanishSalunke/main/profile-summary-card-output/radical/3-stats.svg" />
-  <img src="https://raw.githubusercontent.com/AvanishSalunke/AvanishSalunke/main/profile-summary-card-output/radical/4-productive-time.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AvanishSalunke/AvanishSalunke/main/profile-summary-card-output/radical/0-profile-details.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AvanishSalunke/AvanishSalunke/main/profile-summary-card-output/default/0-profile-details.svg">
+    <img src="https://raw.githubusercontent.com/AvanishSalunke/AvanishSalunke/main/profile-summary-card-output/radical/0-profile-details.svg" alt="Profile Details" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AvanishSalunke/AvanishSalunke/main/profile-summary-card-output/radical/3-stats.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AvanishSalunke/AvanishSalunke/main/profile-summary-card-output/default/3-stats.svg">
+    <img src="https://raw.githubusercontent.com/AvanishSalunke/AvanishSalunke/main/profile-summary-card-output/radical/3-stats.svg" alt="Stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AvanishSalunke/AvanishSalunke/main/profile-summary-card-output/radical/4-productive-time.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AvanishSalunke/AvanishSalunke/main/profile-summary-card-output/default/4-productive-time.svg">
+    <img src="https://raw.githubusercontent.com/AvanishSalunke/AvanishSalunke/main/profile-summary-card-output/radical/4-productive-time.svg" alt="Productive Time" />
+  </picture>
 </p>
 
 
 ---
 
 ## ✍️ Dev Quote  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=radical">
+    <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=default">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=radical" alt="Quote" />
+  </picture>
+</p>
 
 ---
 
@@ -167,4 +183,8 @@
 
 [![](https://visitcount.itsvg.in/api?id=AvanishSalunke&icon=6&color=00ffff)](https://visitcount.itsvg.in)
 
-![footer](https://capsule-render.vercel.app/api?type=slice&color=0:00f0ff,33:ff00ff,66:ff0055,100:111111&height=120&section=footer)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=slice&amp;color=0:00f0ff,33:ff00ff,66:ff0055,100:111111&amp;height=120&amp;section=footer">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=slice&amp;color=0:00f0ff,33:ff00ff,66:ff0055,100:ffffff&amp;height=120&amp;section=footer">
+  <img alt="footer" src="https://capsule-render.vercel.app/api?type=slice&amp;color=0:00f0ff,33:ff00ff,66:ff0055,100:111111&amp;height=120&amp;section=footer">
+</picture>
