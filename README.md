@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=0:00f0ff,33:ff00ff,66:ff0055,100:111111&height=250&section=header&text=Avanish%20Salunke&fontSize=60&fontColor=ffffff&animation=blink)
+![header](https://capsule-render.vercel.app/api?type=slice&color=0:00f0ff,33:ff00ff,66:ff0055,100:111111&height=250&section=header&text=Avanish%20Salunke&fontSize=60&fontColor=ffff00&animation=blink)
+
 
 📩 Email Me 👉 **[avanishsalunke16@gmail.com](mailto:avanishsalunke16@gmail.com)** for collaboration, projects, or just to chat 😊
 
