@@ -1,9 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=0:00f0ff,33:ff00ff,66:ff0055,100:111111&height=250&section=header&text=Avanish%20Salunke&fontSize=60&fontColor=ffffff&animation=blink#gh-dark-mode-only)
-![header](https://capsule-render.vercel.app/api?type=slice&color=0:00f0ff,33:ff00ff,66:ff0055,100:ffffff&height=250&section=header&text=Avanish%20Salunke&fontSize=60&fontColor=000000&animation=blink#gh-light-mode-only)
+![header](https://capsule-render.vercel.app/api?type=slice&color=0:00f0ff,33:ff00ff,66:ff0055,100:111111&height=250&section=header&text=Avanish%20Salunke&fontSize=60&fontColor=ffffff&animation=blink)
 
 📩 Email Me 👉 **[avanishsalunke16@gmail.com](mailto:avanishsalunke16@gmail.com)** for collaboration, projects, or just to chat 😊
 
+
 ---
+
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/avanish-salunke-539042330/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" /></a>
@@ -130,27 +132,31 @@
 
 ## 📈 Contribution Timeline  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AvanishSalunke&bg_color=000000&color=00ffff&line=ff00ff&point=ffffff&area=true&hide_border=true&custom_title=✨%20Avanish's%20Monthly%20Contribution%20Graph%20✨#gh-dark-mode-only" alt="Avanish's Activity Graph"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AvanishSalunke&bg_color=ffffff&color=ff00ff&line=00f0ff&point=000000&area=true&hide_border=true&custom_title=✨%20Avanish's%20Monthly%20Contribution%20Graph%20✨#gh-light-mode-only" alt="Avanish's Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AvanishSalunke&bg_color=000000&color=00ffff&line=ff00ff&point=ffffff&area=true&hide_border=true&custom_title=✨%20Avanish's%20Monthly%20Contribution%20Graph%20✨" alt="Avanish's Activity Graph"/>
 </p>
+
+
+
+
+
+
+
 
 ---
 
+
 ## 📦 GitHub Summary Card  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AvanishSalunke/AvanishSalunke/main/profile-summary-card-output/radical/0-profile-details.svg#gh-dark-mode-only" />
-  <img src="https://raw.githubusercontent.com/AvanishSalunke/AvanishSalunke/main/profile-summary-card-output/default/0-profile-details.svg#gh-light-mode-only" />
-  <img src="https://raw.githubusercontent.com/AvanishSalunke/AvanishSalunke/main/profile-summary-card-output/radical/3-stats.svg#gh-dark-mode-only" />
-  <img src="https://raw.githubusercontent.com/AvanishSalunke/AvanishSalunke/main/profile-summary-card-output/default/3-stats.svg#gh-light-mode-only" />
-  <img src="https://raw.githubusercontent.com/AvanishSalunke/AvanishSalunke/main/profile-summary-card-output/radical/4-productive-time.svg#gh-dark-mode-only" />
-  <img src="https://raw.githubusercontent.com/AvanishSalunke/AvanishSalunke/main/profile-summary-card-output/default/4-productive-time.svg#gh-light-mode-only" />
+  <img src="https://raw.githubusercontent.com/AvanishSalunke/AvanishSalunke/main/profile-summary-card-output/radical/0-profile-details.svg" />
+  <img src="https://raw.githubusercontent.com/AvanishSalunke/AvanishSalunke/main/profile-summary-card-output/radical/3-stats.svg" />
+  <img src="https://raw.githubusercontent.com/AvanishSalunke/AvanishSalunke/main/profile-summary-card-output/radical/4-productive-time.svg" />
 </p>
+
 
 ---
 
 ## ✍️ Dev Quote  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical#gh-dark-mode-only)
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default#gh-light-mode-only)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
@@ -161,5 +167,4 @@
 
 [![](https://visitcount.itsvg.in/api?id=AvanishSalunke&icon=6&color=00ffff)](https://visitcount.itsvg.in)
 
-![footer](https://capsule-render.vercel.app/api?type=slice&color=0:00f0ff,33:ff00ff,66:ff0055,100:111111&height=120&section=footer#gh-dark-mode-only)
-![footer](https://capsule-render.vercel.app/api?type=slice&color=0:00f0ff,33:ff00ff,66:ff0055,100:ffffff&height=120&section=footer#gh-light-mode-only)
+![footer](https://capsule-render.vercel.app/api?type=slice&color=0:00f0ff,33:ff00ff,66:ff0055,100:111111&height=120&section=footer)
