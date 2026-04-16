@@ -9,16 +9,14 @@
 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/avanish-salunke-539042330/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" /></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/toomuchof_avi" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" /></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://discord.com/users/musicioavi" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="40" width="40" /></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:avanishsalunke16@gmail.com" target="_blank"><img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" height="40" width="40" /></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/avanish-salunke-539042330/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/toomuchof_avi" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://discord.com/users/musicioavi" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:avanishsalunke16@gmail.com" target="_blank"><img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://octave.discourse.group/u/avanish/summary" target="_blank"><img src="https://cdn.simpleicons.org/discourse/0080C0" alt="Discourse" height="40" width="40" /></a>
 </p>
+
+
 
 
 ## 💻 Tech Stack  
