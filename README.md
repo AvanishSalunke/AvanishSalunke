@@ -7,21 +7,15 @@
 ---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/avanish-salunke-539042330/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" style="vertical-align:middle; margin:0 10px;">
-  </a>
-  <a href="https://instagram.com/toomuchof_avi" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40" style="vertical-align:middle; margin:0 10px;">
-  </a>
-  <a href="https://discord.com/users/musicioavi" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="40" style="vertical-align:middle; margin:0 10px;">
-  </a>
-  <a href="mailto:avanishsalunke16@gmail.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="40" style="vertical-align:middle; margin:0 10px;">
-  </a>
-  <a href="https://octave.discourse.group/u/avanish/summary" target="_blank">
-    <img src="https://cdn.simpleicons.org/discourse/0080C0" height="40" style="vertical-align:middle; margin:0 10px;">
-  </a>
+  <a href="https://www.linkedin.com/in/avanish-salunke-539042330/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" alt="LinkedIn" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/toomuchof_avi" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40" alt="Instagram" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://discord.com/users/musicioavi" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="40" alt="Discord" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:avanishsalunke16@gmail.com" target="_blank"><img src="https://cdn.simpleicons.org/gmail/EA4335" height="40" alt="Gmail" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://octave.discourse.group/u/avanish/summary" target="_blank"><img src="https://cdn.simpleicons.org/discourse/0080C0" height="40" alt="Discourse" /></a>
 </p>
 
 ## 💻 Tech Stack  
