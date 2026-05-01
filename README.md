@@ -127,6 +127,26 @@
   </tr>
 </table>
 
+<table width="100%" align="center">
+  <tr>
+    <th colspan="2" align="left">
+      <h2><span style="color: #ff00ff;">GNU Octave Contributor</span></h2>
+    </th>
+  </tr>
+  <tr>
+    <td width="40%">
+      🐙 <b><a href="https://github.com/gnu-octave/statistics/pulls?q=author%3AAvanishSalunke" style="color: #00ffff; text-decoration: none;">Contributions Done</a></b>
+      <br><br>
+      🚀 <b><a href="https://summerofcode.withgoogle.com/programs/2026/projects/YKFoacXh" style="color: #00ffff; text-decoration: none;">Active Project: GSoC 2026</a></b>
+      <br><br>
+      📅 <span style="color: #00ffff;">Date Joined: September 2025</span>
+    </td>
+    <td width="60%">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=AvanishSalunke&bg_color=000000&color=00ffff&line=ff00ff&point=ffffff&area=true&hide_border=true&hide_title=true" width="100%" alt="Octave Contributions Graph"/>
+    </td>
+  </tr>
+</table>
+
 
 ## 📈 Contribution Timeline  
 <p align="center">
