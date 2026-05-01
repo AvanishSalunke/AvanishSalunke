@@ -127,25 +127,14 @@
   </tr>
 </table>
 
-<table width="100%" align="center">
-  <tr>
-    <th colspan="2" align="left">
-      <h2><span style="color: #ff00ff;">GNU Octave Contributor</span></h2>
-    </th>
-  </tr>
-  <tr>
-    <td width="40%">
-      🐙 <b><a href="https://github.com/gnu-octave/statistics/pulls?q=author%3AAvanishSalunke" style="color: #00ffff; text-decoration: none;">Contributions Done</a></b>
-      <br><br>
-      🚀 <b><a href="https://summerofcode.withgoogle.com/programs/2026/projects/YKFoacXh" style="color: #00ffff; text-decoration: none;">Active Project: GSoC 2026</a></b>
-      <br><br>
-      📅 <span style="color: #00ffff;">Date Joined: September 2025</span>
-    </td>
-    <td width="60%">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=AvanishSalunke&bg_color=000000&color=00ffff&line=ff00ff&point=ffffff&area=true&hide_border=true&hide_title=true" width="100%" alt="Octave Contributions Graph"/>
-    </td>
-  </tr>
-</table>
+<h2><span style="color: #fe428e;">GNU Octave Contributor</span></h2>
+
+<img src="https://api.iconify.design/octicon/mark-github-16.svg?color=%23f8d847" width="18" align="center" />&nbsp;&nbsp;<a href="https://github.com/gnu-octave/statistics/pulls?q=author%3AAvanishSalunke" style="color: #a9fef7; text-decoration: none; font-size: 16px;">Contributions</a>
+<br><br>
+<img src="https://api.iconify.design/octicon/repo-16.svg?color=%23f8d847" width="18" align="center" />&nbsp;&nbsp;<a href="https://summerofcode.withgoogle.com/programs/2026/projects/YKFoacXh" style="color: #a9fef7; text-decoration: none; font-size: 16px;">Active Project: GSoC 2026</a>
+<br><br>
+<img src="https://api.iconify.design/octicon/clock-16.svg?color=%23f8d847" width="18" align="center" />&nbsp;&nbsp;<span style="color: #a9fef7; font-size: 16px;">Joined Sept 2025</span>
+<br><br>
 
 
 ## 📈 Contribution Timeline  
