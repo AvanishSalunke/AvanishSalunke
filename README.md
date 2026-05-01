@@ -1,7 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=0:00f0ff,33:ff00ff,66:ff0055,100:111111&height=250&section=header&text=Avanish%20Salunke&fontSize=60&fontColor=ffff00&animation=blink)
 
+<h2><span style="color: #fe428e;">GNU Octave Contributor</span></h2>
 
-📩 Email Me 👉 **[avanishsalunke16@gmail.com](mailto:avanishsalunke16@gmail.com)** for collaboration, projects, or just to chat 😊
+<img src="https://api.iconify.design/octicon/mark-github-16.svg?color=%23f8d847" width="18" align="center" />&nbsp;&nbsp;<a href="https://github.com/gnu-octave/statistics/pulls?q=author%3AAvanishSalunke" style="color: #a9fef7; text-decoration: none; font-size: 16px;">Contributions</a>
+<br><br>
+<img src="https://api.iconify.design/octicon/repo-16.svg?color=%23f8d847" width="18" align="center" />&nbsp;&nbsp;<a href="https://summerofcode.withgoogle.com/programs/2026/projects/YKFoacXh" style="color: #a9fef7; text-decoration: none; font-size: 16px;">Active Project: GSoC 2026</a>
+<br><br>
+<img src="https://api.iconify.design/octicon/clock-16.svg?color=%23f8d847" width="18" align="center" />&nbsp;&nbsp;<span style="color: #a9fef7; font-size: 16px;">Joined Sept 2025</span>
+<br><br>
+<img src="https://api.iconify.design/octicon/mail-16.svg?color=%23f8d847" width="18" align="center" />&nbsp;&nbsp;<span style="color: #a9fef7; font-size: 16px;">Email <a href="mailto:avanishsalunke16@gmail.com" style="color: #a9fef7; text-decoration: none;">avanishsalunke16@gmail.com</a> for collaboration, projects, or just to chat 😊</span>
+<br><br>
 
 
 ---
@@ -127,14 +135,7 @@
   </tr>
 </table>
 
-<h2><span style="color: #fe428e;">GNU Octave Contributor</span></h2>
 
-<img src="https://api.iconify.design/octicon/mark-github-16.svg?color=%23f8d847" width="18" align="center" />&nbsp;&nbsp;<a href="https://github.com/gnu-octave/statistics/pulls?q=author%3AAvanishSalunke" style="color: #a9fef7; text-decoration: none; font-size: 16px;">Contributions</a>
-<br><br>
-<img src="https://api.iconify.design/octicon/repo-16.svg?color=%23f8d847" width="18" align="center" />&nbsp;&nbsp;<a href="https://summerofcode.withgoogle.com/programs/2026/projects/YKFoacXh" style="color: #a9fef7; text-decoration: none; font-size: 16px;">Active Project: GSoC 2026</a>
-<br><br>
-<img src="https://api.iconify.design/octicon/clock-16.svg?color=%23f8d847" width="18" align="center" />&nbsp;&nbsp;<span style="color: #a9fef7; font-size: 16px;">Joined Sept 2025</span>
-<br><br>
 
 
 ## 📈 Contribution Timeline  
