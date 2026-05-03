@@ -14,7 +14,7 @@
 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/avanish-salunke-539042330/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" alt="LinkedIn" /></a>
+  <a href="www.linkedin.com/in/avanishsalunke" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" alt="LinkedIn" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/toomuchof_avi" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40" alt="Instagram" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
