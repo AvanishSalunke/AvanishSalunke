@@ -137,12 +137,11 @@
 
 
 
-## 📈 Contribution Timeline  
+
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AvanishSalunke&bg_color=000000&color=00ffff&line=ff00ff&point=ffffff&area=true&hide_border=true&custom_title=✨%20Avanish's%20Monthly%20Contribution%20Graph%20✨" alt="Avanish's Activity Graph"/>
+  <img src="https://github-activity-chart.vercel.app/graph?username=AvanishSalunke&bg_color=000000&color=00ffff&line=ff00ff&point=ffffff&area=true&hide_border=true&custom_title=✨%20Avanish's%202-Month%20Contribution%20Graph%20✨&days=60" alt="Avanish's Activity Graph"/>
 </p>
-
-
 
 
 
