@@ -4,7 +4,7 @@
 
 <img src="https://api.iconify.design/octicon/mark-github-16.svg?color=%23f8d847" width="18" align="center" />&nbsp;&nbsp;<a href="https://github.com/gnu-octave/statistics/pulls?q=author%3AAvanishSalunke" style="color: #a9fef7; text-decoration: none; font-size: 16px;">Contributions</a>
 <br><br>
-<img src="https://api.iconify.design/octicon/repo-16.svg?color=%23f8d847" width="18" align="center" />&nbsp;&nbsp;<a href="https://summerofcode.withgoogle.com/programs/2026/projects/YKFoacXh" style="color: #a9fef7; text-decoration: none; font-size: 16px;">Active Project: GSoC 2026</a>
+<img src="https://api.iconify.design/octicon/repo-16.svg?color=%23f8d847" width="18" align="center" />&nbsp;&nbsp;<a href="https://summerofcode.withgoogle.com/programs/2026/projects/YKFoacXh" style="color: #a9fef7; text-decoration: none; font-size: 16px;">GSoC 2026 Project</a>
 <br><br>
 <img src="https://api.iconify.design/octicon/clock-16.svg?color=%23f8d847" width="18" align="center" />&nbsp;&nbsp;<span style="color: #a9fef7; font-size: 16px;">Joined Sept 2025</span>
 <br><br>
